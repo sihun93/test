@@ -13,6 +13,7 @@
 <li><a href="lifeCycle">서블릿라이프사이클</a></li>
 <h3>hellow 시훈 1</h3>
 <h3>아연</h3>
+<h3>성재</h3>
 </ul>
 </body>
 </html>
