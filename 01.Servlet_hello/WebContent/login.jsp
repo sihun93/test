@@ -12,6 +12,7 @@
 <input name="memberId" placeholder="아이디"><br>
 <input type="password" name="memberPw" placeholder="비밀번호">
 <input type="submit" value="로그인">
+<h3>성재 로그인</h3>
 </form>
 </body>
 </html>
